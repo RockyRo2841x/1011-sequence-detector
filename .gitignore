@@ -1,0 +1,9 @@
+# Proteus machine-specific files and automatic backups
+*.workspace
+Project Backups/
+*.bak
+*.tmp
+
+# Operating-system files
+Thumbs.db
+.DS_Store

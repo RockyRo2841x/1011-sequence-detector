@@ -1,5 +1,7 @@
 # 1011 Sequence Detector and Counter
 
+**Additional submission files and evidence:** see [Drive submission and evidence](docs/drive-evidence.md) for the separately preserved Drive circuit/report snapshot and available recordings or captures.
+
 A digital-logic project that detects the serial bit pattern **1011**, including overlapping matches, and counts detections with a **4-bit counter**. The design uses a Mealy finite-state machine implemented with D flip-flops and logic gates in Proteus.
 
 ## Project files
